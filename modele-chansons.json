@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "id": "modele-easy-01",
+      "title": "Titre à remplacer — Années 80 (facile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 80",
+      "level": "easy",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-easy-02",
+      "title": "Titre à remplacer — Années 90 (facile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 90",
+      "level": "easy",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-easy-03",
+      "title": "Titre à remplacer — Années 2000 (facile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2000",
+      "level": "easy",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-easy-04",
+      "title": "Titre à remplacer — Années 2010 (facile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2010",
+      "level": "easy",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-easy-05",
+      "title": "Titre à remplacer — Années 2020 (facile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2020",
+      "level": "easy",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-easy-06",
+      "title": "Titre à remplacer — Anglaise traduite (facile)",
+      "artist": "Artiste à remplacer",
+      "category": "Anglaise traduite",
+      "level": "easy",
+      "lyrics": "Remplacez ce texte par votre traduction française des paroles."
+    },
+    {
+      "id": "modele-medium-01",
+      "title": "Titre à remplacer — Années 80 (intermédiaire)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 80",
+      "level": "medium",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-medium-02",
+      "title": "Titre à remplacer — Années 90 (intermédiaire)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 90",
+      "level": "medium",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-medium-03",
+      "title": "Titre à remplacer — Années 2000 (intermédiaire)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2000",
+      "level": "medium",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-medium-04",
+      "title": "Titre à remplacer — Années 2010 (intermédiaire)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2010",
+      "level": "medium",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-medium-05",
+      "title": "Titre à remplacer — Années 2020 (intermédiaire)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2020",
+      "level": "medium",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-medium-06",
+      "title": "Titre à remplacer — Anglaise traduite (intermédiaire)",
+      "artist": "Artiste à remplacer",
+      "category": "Anglaise traduite",
+      "level": "medium",
+      "lyrics": "Remplacez ce texte par votre traduction française des paroles."
+    },
+    {
+      "id": "modele-hard-01",
+      "title": "Titre à remplacer — Années 80 (difficile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 80",
+      "level": "hard",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-hard-02",
+      "title": "Titre à remplacer — Années 90 (difficile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 90",
+      "level": "hard",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-hard-03",
+      "title": "Titre à remplacer — Années 2000 (difficile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2000",
+      "level": "hard",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-hard-04",
+      "title": "Titre à remplacer — Années 2010 (difficile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2010",
+      "level": "hard",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-hard-05",
+      "title": "Titre à remplacer — Années 2020 (difficile)",
+      "artist": "Artiste à remplacer",
+      "category": "Années 2020",
+      "level": "hard",
+      "lyrics": "Remplacez ce texte par les paroles à lire à voix haute."
+    },
+    {
+      "id": "modele-hard-06",
+      "title": "Titre à remplacer — Anglaise traduite (difficile)",
+      "artist": "Artiste à remplacer",
+      "category": "Anglaise traduite",
+      "level": "hard",
+      "lyrics": "Remplacez ce texte par votre traduction française des paroles."
+    }
+  ]
+}
